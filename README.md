@@ -12,7 +12,7 @@ Os Ambientes de Implantação Azure capacitam as equipes de desenvolvimento a de
   - GitHub Actions - Automatiza fluxos de trabalho diretamente no GitHub, como CI/CD para projetos que usam a Azure. Você pode configurar pipelines diretamente nos repositórios de código.
   - Azure Kubernetes Service (AKS) com Helm - O AKS com suporte ao Helm oferece uma forma eficiente de gerenciar e implantar aplicações containerizadas de maneira simplificada.
 
-## Links
+## Links Úteis e Recursos
 https://azure.github.io/bicep/
 
 https://azure.microsoft.com/pt-br/products/azure-arc
